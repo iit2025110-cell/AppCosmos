@@ -1,0 +1,4 @@
+Name: Jatin
+GitHub: @thenix09
+College: IIIT Allahabad
+Interest: Software Engineering, Open Source
